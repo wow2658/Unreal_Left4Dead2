@@ -1,4 +1,6 @@
-# 레포뎀 
+# [Unreal_Left4Dead2/Source/R4GD/Public/LGT/](https://github.com/wow2658/Unreal_Left4Dead2/tree/main/Source/R4GD/Private/LGT)
+# [Unreal_Left4Dead2/Source/R4GD/Private/LGT/](https://github.com/wow2658/Unreal_Left4Dead2/tree/main/Source/R4GD/Public/LGT)
+ 
 ### 팀원구성
 + 기획 - 황해솔, 이혜빈
 + 모델링 - 김희진, 정성은
